@@ -1,0 +1,4 @@
+5,tv price is changed! please check latest price.
+3,loudspeaker is changed! please check latest price.
+12,ac price is changed! please check latest price.
+4,microwave price is changed! please check latest price.
